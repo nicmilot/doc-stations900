@@ -14,9 +14,9 @@
 Si vous n’avez pas de compte, vous pouvez seulement entrer vos informations de paiement \(_Pay with credit or Visa Debit card_\).  
 ![](/assets/Capture d’écran 2018-02-28 à 18.22.29.jpg)
 
-4.  Après avoir finaliser la transaction vous serez redirigez vers votre compte PaperCut de la Station 900 \(comme la capture d’écran au point 2\).
+4. Après avoir finaliser la transaction vous serez redirigez vers votre compte PaperCut de la Station 900 \(comme la capture d’écran au point 2\)
 
-5.  Fin
+5. Fin
 
 **À noter:** Si les crédits achetés n’apparaissent pas à votre compte, seulement vous déconnecter de votre compte et vous reconnectez. Si le problème persiste, rendez-vous à la réception.
 
