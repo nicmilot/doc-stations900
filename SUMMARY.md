@@ -1,7 +1,7 @@
-# Summary
+# Table of contents
 
 * [Station900](README.md)
-* [Procédures Imprimante](procedures_imprimante/README.md)
-  * [Ajouter des Crédits](procedures_imprimante/ajouter_des_credits.md)
-  * [Fonctionnement de l’impression selon l’appareil](procedures_imprimante/fonctionnement_de_limpression_selon_lappareil.md)
+* [Procédures Imprimante](procedures-imprimante/README.md)
+  * [Ajouter des Crédits](procedures-imprimante/ajouter-des-credits.md)
+  * [Configurer sur mon appareil](procedures-imprimante/fonctionnement-de-limpression-selon-lappareil.md)
 
