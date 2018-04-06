@@ -14,13 +14,9 @@
 
 3. Ensuite, click sur _Add value_ et vous serez redirigé vers le compte PayPal associer à la Station 900 et du Centre Médical du Haut-Richelieu \(CMHR\).
 
-3.1 Si vous avez déjà un compte PayPal vous pouvez entré vos 
+3.1 Si vous avez déjà un compte PayPal vous pouvez entré votre
 
-_courriel_
-
- et 
-
-_password_
+_courriel_ et _password_
 
  comme vous le faîte pour d’autres achats avec PayPal.
 
