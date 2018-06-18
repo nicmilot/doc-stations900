@@ -7,6 +7,7 @@
 * [ChromeCast](cast/README.md)
   * [Général](cast/general.md)
   * [Macbook & PC](cast/macbook.md)
+  * [Iphone et Ipad](cast/iphone-et-ipad.md)
 * [Machine à Café](machine-a-cafe/README.md)
   * [Régulier](machine-a-cafe/regulier.md)
   * [Mousseur](machine-a-cafe/mousseur.md)
