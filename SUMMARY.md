@@ -7,6 +7,7 @@
 * [ChromeCast](cast/README.md)
   * [Général](cast/general.md)
   * [Macbook & PC](cast/macbook.md)
-* [Machine à Café](machine-a-cafe.md)
+* [Machine à Café](machine-a-cafe/README.md)
+  * [Régulier](machine-a-cafe/regulier.md)
 * [Accès et Stationnement](acces-et-stationnement.md)
 
