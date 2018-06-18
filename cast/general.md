@@ -19,5 +19,5 @@ Sur mobile, vous pouvez télécharger l'application GoogleHome pour aider l'util
 * GoogleHome [Iphone et Ipad](https://itunes.apple.com/app/google-home/id680819774)
 * GoogleHome [Androïd](https://play.google.com/store/apps/details?id=com.android.chrome&pcampaignid=thankyoupage)
 
-
+![Google Home application](../.gitbook/assets/image.png)
 
