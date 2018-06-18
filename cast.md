@@ -1,4 +1,4 @@
-# Cast
+# ChromeCast
 
 ## Getting Super Powers
 
