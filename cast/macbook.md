@@ -1,2 +1,2 @@
-# Macbook
+# Macbook & PC
 
