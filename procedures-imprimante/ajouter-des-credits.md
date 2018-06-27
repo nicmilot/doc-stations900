@@ -37,5 +37,9 @@ Si vous n’avez pas de compte, vous pouvez seulement entrer vos informations de
 * Après avoir finaliser la transaction vous serez redirigez vers votre compte PaperCut de la Station 900 \(comme la capture d’écran au point 2\)
 * Fin
 
+{% hint style="info" %}
 **À noter:** Si les crédits achetés n’apparaissent pas à votre compte, seulement vous déconnecter de votre compte et vous reconnectez. Si le problème persiste, rendez-vous à la réception.
+{% endhint %}
+
+
 
