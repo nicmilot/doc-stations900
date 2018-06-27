@@ -1,6 +1,6 @@
 # Général
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Utilisation du ChromeCast peut différer selon l'appareil utiliser. Il est donc important de repérer le type et modèle de votre appareil avant de continuer.
 {% endhint %}
 
@@ -20,4 +20,8 @@ Sur mobile, vous pouvez télécharger l'application GoogleHome pour aider l'util
 * GoogleHome [Androïd](https://play.google.com/store/apps/details?id=com.android.chrome&pcampaignid=thankyoupage)
 
 ![Google Home application](../.gitbook/assets/image.png)
+
+## Applications et Partenaires
+
+Pour voir la liste des applications et partenaires offrant des intégrations avec le ChromeCast, cliquer [ici.](https://store.google.com/ca/product/chromecast_2015_apps?hl=fr-CA)
 

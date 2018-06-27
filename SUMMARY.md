@@ -12,5 +12,4 @@
 * [Machine à Café](machine-a-cafe/README.md)
   * [Régulier](machine-a-cafe/regulier.md)
   * [Mousseur](machine-a-cafe/mousseur.md)
-* [Accès et Stationnement](acces-et-stationnement.md)
 

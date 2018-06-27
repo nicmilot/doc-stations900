@@ -1,5 +1,9 @@
 # Macbook & PC
 
+{% hint style="info" %}
+Pour caster, vous devez utiliser Google Chrome comme navigateur \(au lieu de Safari ou Internet Explorer\). Pour télécharger Google Chrome, suivre ce [lien](https://www.google.fr/chrome/).
+{% endhint %}
+
 1. Dans la barre d’outils de Google Chrome et choisir le menu ayant trois petits points verticaux, puis appuyer sur ‘’Caster’’.
 
 ![Menu Google Chrome](../.gitbook/assets/image%20%282%29.png)
