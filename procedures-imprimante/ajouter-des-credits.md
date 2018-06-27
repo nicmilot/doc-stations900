@@ -1,3 +1,7 @@
+---
+description: Fonctionnement pour ajouter des crédits à son compte.
+---
+
 # Ajouter des Crédits
 
 1. À partir du tableau de bord, sélectionner:

@@ -1,3 +1,7 @@
+---
+description: Accéder à son tableau de bord.
+---
+
 # Tableau de Bord
 
 ## Se connecter a son compte : {#se-connecter-a-son-compte}
