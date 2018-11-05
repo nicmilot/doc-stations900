@@ -2,13 +2,13 @@
 
 ## Pour faire un café régulier \(Méthode 1\)
 
-1. Appuyer le bouton ‘’ESC’’ pour choisir le type de café
+1. Appuyer le bouton ‘’ESC’’ pour choisir le type de café.
 
 ![](../.gitbook/assets/33-screenshot-2018-11-05.jpg)
 
 
 
-2. Utiliser les flèches pour monter et descendre dans la liste d’option
+2. Utiliser les flèches pour monter et descendre dans la liste d’option.
 
 ![](../.gitbook/assets/34-screenshot-2018-11-05.jpg)
 
@@ -24,5 +24,5 @@ Choisir Americano pour café standard
 
 
 
-4. Ajouter lait, sucre au besoin et savourer !
+4. Ajouter votre lait, sucre au besoin et savourer !
 
