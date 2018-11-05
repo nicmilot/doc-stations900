@@ -10,6 +10,6 @@
   * [Macbook & PC](cast/macbook.md)
   * [Iphone et Ipad](cast/iphone-et-ipad.md)
 * [Machine à Café](machine-a-cafe/README.md)
-  * [Régulier](machine-a-cafe/regulier.md)
-  * [Mousseur](machine-a-cafe/mousseur.md)
+  * [Régulier \(Méthode 1\)](machine-a-cafe/regulier.md)
+  * [Régulier \(Méthode 2\)](machine-a-cafe/mousseur.md)
 

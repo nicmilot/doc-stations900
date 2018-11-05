@@ -4,7 +4,7 @@ description: Accéder à son tableau de bord.
 
 # Tableau de Bord
 
-## Se connecter a son compte : {#se-connecter-a-son-compte}
+## Se connecter a son compte : <a id="se-connecter-a-son-compte"></a>
 
 1. Demander votre _username_ et _password_ spécifique à l’imprimante \(voir la réception\)
 2. Accéder au lien suivant
